@@ -1,1 +1,2 @@
 # python
+REpozitoryy dlia traininga
